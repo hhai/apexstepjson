@@ -1,7 +1,7 @@
 {
 	"financials":[{
 		"metadata":{
-			"strings":["dateString","typeString"], "numbers":["value"], "groups":["dateString"]
+			"strings":["dateString","typeString"], "numbers":["value"], "groups":["dateString","typeString"]
 		},
 		"data":[
 			{
