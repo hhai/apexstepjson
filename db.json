@@ -1,7 +1,18 @@
 {
-	"financials":[
-	   {
-		"blah":"blah"
-	   }
-	]	
+	"financials":[{
+		"metadata":{
+			"strings":["dateString","typeString"], "numbers":["value"], "groups":["dateString"]
+		},
+		"data":[
+			{
+				"typeString": ["EXPOSURE","LOAN"],
+				"dateString": "Apr 2018",
+				"value": [226000000, 126000000]
+			},
+			{
+				"typeString": ["EXPOSURE","LOAN"],
+				"dateString": "Apr 2018",
+				"value": [100000000, 300000000]
+			}]
+	}]	
 }
